@@ -4,7 +4,7 @@ Repository for the paper "Prosodic Phrase Alignment for Machine Dubbing" contain
 
 ![Poster](https://raw.githubusercontent.com/alpoktem/MachineDub/master/MachineDub-poster.png "Paper poster")
 
-# Cite and access
+## Cite and Access
 
 [Arxiv pre-print](https://arxiv.org/abs/1908.07226)
 
