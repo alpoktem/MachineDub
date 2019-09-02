@@ -2,8 +2,7 @@
 
 Repository for the paper "Prosodic Phrase Alignment for Machine Dubbing" containing source code for experiments and dubbed samples from the [Heroes Corpus](https://repositori.upf.edu/handle/10230/35572). 
 
-<p align="center"><a href="https://raw.githubusercontent.com/alpoktem/MachineDub/master/MachineDub-poster.png"><img src="https://raw.githubusercontent.com/alpoktem/MachineDub/master/MachineDub-poster.png" width="500"></a></p>
-
+![Poster](https://raw.githubusercontent.com/alpoktem/MachineDub/master/MachineDub-poster.png "Paper poster")
 
 # Cite and access
 
