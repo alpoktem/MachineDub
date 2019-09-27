@@ -8,7 +8,7 @@ Repository for the paper "Prosodic Phrase Alignment for Machine Dubbing" contain
 
 [Arxiv pre-print](https://arxiv.org/abs/1908.07226)
 
-ISCA Archive (soon)
+[ISCA Archive](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1621.html)
 
 	@inproceedings{Oktem2019,
 		author={Alp Öktem and Mireia Farrús and Antonio Bonafonte},
